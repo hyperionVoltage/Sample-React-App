@@ -1,0 +1,21 @@
+.cardimg {
+  width: 35vw;
+  height: 90vh;
+}
+
+.mediacard {
+  padding: 2vw;
+}
+
+.textwall {
+  height: 90vh;
+}
+
+.min {
+  height: 10%;
+}
+
+.max {
+  height: 60%;
+}
+/*# sourceMappingURL=moviecardstyle.css.map */

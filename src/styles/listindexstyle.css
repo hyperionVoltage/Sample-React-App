@@ -1,0 +1,16 @@
+.image-parent {
+  max-width: 2vw;
+}
+
+.showlist {
+  padding: 0;
+}
+
+.show-index {
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+/*# sourceMappingURL=listindexstyle.css.map */

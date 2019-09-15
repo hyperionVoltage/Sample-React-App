@@ -1,0 +1,22 @@
+@import "./bootstraploader";
+
+.search {
+  padding: 2vw;
+  flex-direction: column;
+}
+
+.display {
+  flex-direction: row;
+}
+
+.backgroundScreen {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(62, 33, 112, 1) 40%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  width: 100vw;
+  height: 100vh;
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,CAAC;EACP,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACb;;AAED,AAAA,UAAU,CAAC;EACT,OAAO,EAAE,GAAG;CACb;;AAED,AAAA,SAAS,CAAC;EACR,MAAM,EAAE,IAAI;CACb;;AAED,AAAA,IAAI,CAAC;EACH,MAAM,EAAE,GAAG;CACZ;;AAED,AAAA,IAAI,CAAC;EACH,MAAM,EAAE,GAAG;CACZ",
+    "sources": [
+        "moviecardstyle.scss"
+    ],
+    "names": [],
+    "file": "moviecardstyle.css"
+}
